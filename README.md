@@ -46,7 +46,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 Bisa juga dilakukan dengan menjalankan program (.exe) yang dapat diperoleh dari tautan berikut:  
 
-#### \[[Download](https://github.com/narendra-akmal/SysMaint/releases/download/v1.0.0.0/SysMaint.exe)\]  
+#### \[[Download](https://github.com/narendra-akmal/SysMaint/releases/download/SysMaint/SysMaint.exe)\]  
 
 ## Kontribusi
 
