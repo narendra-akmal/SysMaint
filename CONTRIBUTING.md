@@ -5,12 +5,12 @@ Terima kasih telah tertarik berkontribusi pada **SysMaint** - alat maintenance s
 ## Cara Berkontribusi
 
 ### 1. **Report Bugs**
-- Buka [Issues](https://github.com/danish-akmal/SysMaint/issues)
+- Buka [Issues](https://github.com/narendra-akmal/SysMaint/issues)
 - Gunakan template bug report
 - Sertakan: Output error, Windows version, langkah reproduksi
 
 ### 2. **Feature Requests** 
-- Buka [Issues](https://github.com/danish-akmal/SysMaint/issues)
+- Buka [Issues](https://github.com/narendra-akmal/SysMaint/issues)
 - Jelaskan fitur yang diinginkan
 - Sertakan use case dan manfaat
 
@@ -37,7 +37,7 @@ git push origin feature/nama-fitur
 
 1. **Clone repo:**
 ```powershell
-git clone https://github.com/danish-akmal/SysMaint.git
+git clone https://github.com/narendra-akmal/SysMaint.git
 cd SysMaint
 ```
 
@@ -72,7 +72,7 @@ powershell -NoProfile -Command "Get-Content .\SysMaint.ps1 | Invoke-Expression"
 
 ## Support
 
-Pertanyaan? Buka [Discussion](https://github.com/danish-akmal/SysMaint/discussions) atau [Issues](https://github.com/danish-akmal/SysMaint/issues).
+Pertanyaan? Buka [Discussion](https://github.com/narendra-akmal/SysMaint/discussions) atau [Issues](https://github.com/narendra-akmal/SysMaint/issues).
 
 ---
 
