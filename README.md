@@ -2,7 +2,7 @@
 <p align="center"><a href="https://microsoft.com/powershell"><img src="https://img.shields.io/badge/PowerShell-5.1%2B%20%7C%20Core%207%2B-blue.svg" alt="PowerShell Version"></a>
 <a href="https://microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-10%20%7C%2011%20%7C%20Server%202016%2B-0078D6.svg" alt="OS Compatibility"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-<a href="https://github.com/narendra-akmal/SysMaint/releases"><img src="https://img.shields.io/badge/Release-v2.1.0--stable-green.svg" alt="Release"></a></p>
+<a href="https://github.com/narendra-akmal/SysMaint/releases"><img src="https://img.shields.io/badge/Release-v2.0.0--stable-green.svg" alt="Release"></a></p>
 <p><strong>SysMaint (Sistem Pemeliharaan Windows)</strong> adalah <em>framework</em> skrip berbasis PowerShell yang dirancang untuk mengotomatisasi seluruh siklus pemeliharaan rutin pada sistem operasi Windows (Workstation &amp; Server). Skrip ini membantu Administrator Sistem, Engineer DevOps, dan Pengguna Daya (<em>Power Users</em>) dalam menjaga performa sistem tetap optimal, menghemat ruang penyimpanan, serta meminimalisasi potensi <em>downtime</em> akibat akumulasi file sampah atau log membesar.</p>
 <hr>
 <h2>📌 Daftar Isi</h2>
@@ -144,7 +144,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
 <hr>
 <h3>3. Eksekusi File Biner (.exe)</h3>
 <p>Bagi pengguna yang membutuhkan versi portabel tanpa perlu membuka konsol PowerShell, Anda dapat mengunduh versi kompilasi <code>.exe</code>:</p>
-<h4>📥 <a href="https://github.com/narendra-akmal/SysMaint/releases/download/SysMaint/SysMaint.exe">[Download SysMaint.exe]</a></h4>
+<h4>📥 <a href="https://github.com/narendra-akmal/SysMaint/releases/download/SysMaint-v2/SysMaint.exe">[Download SysMaint.exe]</a></h4>
 <blockquote>
 <p><strong>Cara Menggunakan .exe:</strong>
 Klik kanan pada berkas <code>SysMaint.exe</code> ➡️ Pilih <strong>"Run as Administrator"</strong>.</p>
