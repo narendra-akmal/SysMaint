@@ -1,7 +1,7 @@
 <h1 align="center">🛠️ SysMaint [Sistem Pemeliharaan Windows]</h1>
 <p align="center"><a href="https://microsoft.com/powershell"><img src="https://img.shields.io/badge/PowerShell-5.1%2B%20%7C%20Core%207%2B-blue.svg" alt="PowerShell Version"></a>
 <a href="https://microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-10%20%7C%2011%20%7C%20Server%202016%2B-0078D6.svg" alt="OS Compatibility"></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-orange.svg" alt="License: MIT"></a>
 <a href="https://github.com/narendra-akmal/SysMaint/releases"><img src="https://img.shields.io/badge/Release-v2.0.0--stable-green.svg" alt="Release"></a></p>
 <p><strong>SysMaint (Sistem Pemeliharaan Windows)</strong> adalah <em>framework</em> skrip berbasis PowerShell yang dirancang untuk mengotomatisasi seluruh siklus pemeliharaan rutin pada sistem operasi Windows (Workstation &amp; Server). Skrip ini membantu Administrator Sistem, Engineer DevOps, dan Pengguna Daya (<em>Power Users</em>) dalam menjaga performa sistem tetap optimal, menghemat ruang penyimpanan, serta meminimalisasi potensi <em>downtime</em> akibat akumulasi file sampah atau log membesar.</p>
 <hr>
